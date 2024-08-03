@@ -6,4 +6,4 @@ I'm a Software engineer and an Artificial Intelligence and Data Engineering stud
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisetti01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisetti01&layout=compact&hide=Ruby)
