@@ -4,3 +4,7 @@ I'm a Software engineer and an Artificial Intelligence and Data Engineering stud
 
 [![nikisetti01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisetti01&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisetti01icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
