@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm nikisetti01!👋
+I'm a Software engineer and an Artificial Intelligence and Data Engineering student at the University of Pisa.
+[![nikisetti01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisetti01)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nikisetti01/nikisetti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
