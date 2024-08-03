@@ -1,5 +1,11 @@
 ## Hi there, I'm nikisetti01!👋
 I'm a Software engineer and an Artificial Intelligence and Data Engineering student at the University of Pisa.
+## Contacts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niki%20Setti-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niccol%C3%B2-settimelli-126896268/)
+[![Email](https://img.shields.io/badge/Email-nikisetti01@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:niccolosettimelli@gmail.com)
+
+
+
 ## Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=nikisetti01)
 
@@ -9,3 +15,4 @@ I'm a Software engineer and an Artificial Intelligence and Data Engineering stud
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisetti01&layout=compact&hide=Ruby&theme=transparent)
+
