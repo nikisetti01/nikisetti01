@@ -6,8 +6,7 @@ I'm a Computer Science engineer and an Artificial Intelligence and Data Engineer
 
 
 
-## Stats  📊
-![Views](https://img.shields.io/badge/Views-123-blue) 
+
 
 
 [![nikisetti01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisetti01&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
