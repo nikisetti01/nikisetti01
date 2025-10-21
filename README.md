@@ -8,10 +8,3 @@ AI & ML Engineer specialized in Information Retrieval, NLP, and Deep Learning â€
 
 
 
-
-[![nikisetti01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikisetti01&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikisetti01&layout=compact&hide=Ruby&theme=transparent)
-
